@@ -25,7 +25,7 @@ seamlessly invoke our extended functionality.
 First we’ll show example usage, followed by the RichSQL object
 definition that creates our syntactic environment.
 
-``` {.code .scala}
+```scala
 package f2;
  
 // In Scala we can specify multiple imports from the same package
@@ -250,7 +250,7 @@ object RichSQL {
 Here is more advanced version, capable to handling NULL values via
 Option[T]
 
-``` {.code .scala}
+```scala
 /*
  * RichSQL.scala
  *
