@@ -1,6 +1,13 @@
 simplifying-jdbc
 ================
 
+#### Simplifying jdbc ##
+The work of Ross Judson is refered by Martin Odersky in Pimp my Library [article](http://www.artima.com/weblogs/viewpost.jsp?thread=179766)
+The [original site](http://scala.sygneca.com/code/simplifying-jdbc) is down but still can be found archived [at web.archive.org](https://web.archive.org/web/20110705133848/http://scala.sygneca.com/code/simplifying-jdbc).
+Ross Judson has some thoughts on this on [http://permalink.gmane.org/gmane.comp.lang.scala/2700](http://permalink.gmane.org/gmane.comp.lang.scala/2700)
+
+#### Original article ##
+
 A particularly nice example is a wrapper for simplifying JDBC, written by Ross Judson, showing Pimp my Library pattern as described by Martin Odersky
 
 
